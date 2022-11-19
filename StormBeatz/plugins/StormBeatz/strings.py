@@ -28,15 +28,15 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
                 text="📚 All Commands", callback_data="settings_back_helper"
             ),
             InlineKeyboardButton(
-                text="Dev", url="https://t.me/Xd_Nitric"
+                text="Dev", url="https://t.me/LoCaL_kInG_01"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="Updates", url="https://t.me/StormUpdates"
+                text="Updates", url="https://t.me/LoveofmusicUpdates"
             ),
             InlineKeyboardButton(
-                text="Support", url="https://t.me/StormSupportChat"
+                text="Support", url="https://t.me/Loveofmusicsupport"
             ),                       
         ],        
         [
@@ -51,9 +51,9 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
 
-                        "Add me to your group ➕",
+                        "Add me to your group",
 
-                        url=f"https://t.me/MissStormBeatzRobot?startgroup=true",
+                        url=f"https://t.me/LoveeOfmusic_bot?startgroup=true",
 
                     )
 
@@ -73,13 +73,13 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
 
                     InlineKeyboardButton(
 
-                        "Updates", url=f"https://t.me/StormUpdates"
+                        "Updates", url=f"https://t.me/LoveofmusicUpdates"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        "Support", url=f"https://t.me/StormSupportChat"
+                        "Support", url=f"https://t.me/loveofmusicSupport"
 
                     ),
 
