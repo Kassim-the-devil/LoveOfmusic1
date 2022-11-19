@@ -41,7 +41,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],        
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/StormBeatz/StormBeatz"
+                text="Owner", url="https://t.me/LoCaL_kInG_01"
             ),                                  
         ]
     ]
