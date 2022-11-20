@@ -123,7 +123,7 @@ def stream_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text="🏠 Support",
-                url="https://telegram.dog/StormSupportChat",
+                url="https://telegram.dog/loveofmusicSupport",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
@@ -182,11 +182,11 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         [
             InlineKeyboardButton(
                 text="🎵 Play Audio",
-                callback_data=f"StormBeatzPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
+                callback_data=f"LoveofmusicPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
                 text="🎥 Play Video",
-                callback_data=f"StormBeatzPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
+                callback_data=f"LoveofmusicPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
             ),
         ],
         [
