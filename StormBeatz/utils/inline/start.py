@@ -22,15 +22,15 @@ def start_pannel(_):
         ],
         [
             InlineKeyboardButton(
-                text="Updates", url="https://t.me/StormUpdates"
+                text="Updates", url="https://t.me/LoveofmusicUpdates"
             ),
             InlineKeyboardButton(
-                text="Support", url="https://t.me/StormSupportChat"
+                text="Support", url="https://t.me/loveofmusic"
             ),                       
         ],        
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/StormBeatz/StormBeatz"
+                text="owner", url="https://t.me/LoCaL_kInG_01"
             ),                                  
         ]
     ]
@@ -41,7 +41,7 @@ def private_panel(_, BOT_USERNAME):
     buttons = [
         [
             InlineKeyboardButton(
-                text="Add me to your group ➕",
+                text="Add me to your group",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             ),
         ],
@@ -51,9 +51,9 @@ def private_panel(_, BOT_USERNAME):
             ),
         ],
         [
-            InlineKeyboardButton(text="Updates", url=f"https://t.me/StormUpdates"),
+            InlineKeyboardButton(text="Updates", url=f"https://t.me/loveofmusicUpdates"),
             InlineKeyboardButton(
-                text="Support", url=f"https://t.me/StormSupportChat"
+                text="Support", url=f"https://t.me/loveofmusicSupport"
             ),
         ],
         [
@@ -63,7 +63,7 @@ def private_panel(_, BOT_USERNAME):
         ],
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/StormBeatz/StormBeatz"
+                text="owner", url="https://t.me/LoCaL_kInG_01"
             )
         ]
      ]
