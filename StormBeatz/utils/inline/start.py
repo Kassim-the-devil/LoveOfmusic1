@@ -17,7 +17,7 @@ def start_pannel(_):
                 text="📚 All Commands", callback_data="settings_back_helper"
             ),
             InlineKeyboardButton(
-                text="Dev", url="https://t.me/Xd_Nitric"
+                text="Dev", url="https://t.me/kassim_darlzzz"
             ),                                   
         ],
         [
