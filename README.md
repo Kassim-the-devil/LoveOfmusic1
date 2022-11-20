@@ -14,17 +14,17 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 
 ```console
-Kassimdarlzzz~ $ git clone https://github.com/StormBeatz/StormBeatz
-Kassimdarlzzz~ $ cd StormBeatz
-Kassimdarlzzz~ $ ls
-Kassimdarlzzz~ $ pip3 install -U -r requirements.txt
-Kassimdarlzzz~ $ sudo bash setup
+Kassim@darlzzzz~ $ git clone https://github.com/StormBeatz/StormBeatz
+Kassim@darlzzz~ $ cd StormBeatz
+Kassim@darlzzz~ $ ls
+Kassim@darlzzz~ $ pip3 install -U -r requirements.txt
+Kassim@darlzzz~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
 
 ```console
-Kassimdarlzzz@darlzzzofficial~ $ bash start
+Kassim@darlzzz~ $ bash start
 ```
 
 
