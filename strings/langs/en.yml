@@ -72,15 +72,13 @@ admin_33 : "Successfully Seeked Stream to {0} Mins"
 admin_34 : "Failed to seek the current stream."
 
 # Bot 
-
-# Start
-start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello {0},\n\nThis is {1}.\n\nA Powerful music player bot with some awesome and useful features.\n\nAll of my commands are listed in help button or You can find by /help.**"
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
-start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
-start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
-start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
+ᴛʜᴀɴᴋs ғᴏʀ ʜᴀᴠɪɴɢ ᴍᴇ ɪɴ {0}.\ɴ{1} ɪs ᴀʟɪᴠᴇ.\ɴ\ɴғᴏʀ ᴀɴʏ ᴀssɪsᴛᴀɴᴄᴇ ᴏʀ ʜᴇʟᴘ, ᴄʜᴇᴄᴋᴏᴜᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ."
+sᴛᴀʀᴛ_2 : "ʜᴇʟʟᴏ {0},\ɴ\ɴᴛʜɪs ɪs {1}.\ɴ\ɴᴀ ᴘᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.\ɴ\ɴᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀʀᴇ ʟɪsᴛᴇᴅ ɪɴ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴏʀ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ʙʏ /ʜᴇʟᴘ.**"
+sᴛᴀʀᴛ_3 : "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {0}\ɴ\ɴɪ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴀɴʏ **ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ** ᴛᴏ ᴡᴏʀᴋ ( ᴜɴᴛɪʟ ᴀsᴋᴇᴅ ғᴏʀ ).\ɴ\ɴᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:- @{1}\ɴᴀssɪsᴛᴀɴᴛ ɪᴅ:- {2}"
+sᴛᴀʀᴛ_4 : "{0}'s ᴏᴡɴᴇʀ[{1}] ʜᴀs ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+sᴛᴀʀᴛ_5 : "ᴀ ᴍᴇᴍʙᴇʀ ᴏғ {0}'s sᴜᴅᴏ ᴜsᴇʀ[{1}] ʜᴀs ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+sᴛᴀʀᴛ_6 : "❗️ **sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ** ❗️\ɴ\ɴᴘʟᴇᴀsᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ **ɢʀᴏᴜᴘ** ᴛᴏ **sᴜᴘᴇʀɢʀᴏᴜᴘ** ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ʙᴀᴄᴋ.\ɴ\ɴ**ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ?**\ɴ✅ ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ **ᴠɪsɪʙʟᴇ** ᴏɴᴄᴇ."
+sᴛᴀʀᴛ_7 : "**ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ**\ɴ\ɴʏᴏᴜ'ʀᴇ ᴄʜᴀᴛ ʜᴀs ʙᴇᴇɴ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ʙʏ ᴛʜᴇ ʙᴏᴛ. ᴘʟᴇᴀsᴇ ᴀsᴋ ᴀɴʏ sᴜᴅᴏᴜsᴇʀ ᴛᴏ ᴡʜɪᴛᴇʟɪsᴛ ᴄʜᴀᴛ ғɪʀsᴛ. ᴄʜᴇᴄᴋ [sᴜᴅᴏʟɪsᴛ ғʀᴏᴍ ʜᴇʀᴇ]({0})"
 
 # Help
 help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
@@ -483,3 +481,4 @@ sug_26 : "You can change language of the bot to available languages for easy und
 sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
 sug_28 : "You know you play directly from spotify's top playlist using /browse command. \n\nChoose category and then the playlist you want to play"
 sug_29 : "You know you can get approved from any sudo user of the bot and remove all your limits from bot :)\n\nCheck sudo list using /sudolist"
+
