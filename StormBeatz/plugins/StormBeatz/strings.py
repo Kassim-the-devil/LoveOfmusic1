@@ -302,7 +302,7 @@ COMMAND_MENU_BUTTON = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                "Support", url=f"https://t.me/StormSupportChat"
+                "Support", url=f"https://t.me/loveofmusicSupport"
             ),
         ],
         [
